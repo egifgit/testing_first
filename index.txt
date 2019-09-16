@@ -2,3 +2,5 @@ nama : egif
 jurusan : Teknik Informatika
 alamat : yogyakarta
 status : mahasiswa
+agama  : islam
+
