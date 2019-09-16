@@ -1,4 +1,4 @@
-nama : egif
+nama : abika
 jurusan : Teknik Informatika
 alamat : yogyakarta
 status : mahasiswa
