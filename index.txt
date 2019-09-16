@@ -4,3 +4,5 @@ alamat : yogyakarta
 status : mahasiswa
 agama  : islam
 
+nama : darlan
+jurusan : teknik informatika
