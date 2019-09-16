@@ -1,4 +1,4 @@
-nama : egif
+nama : brian
 jurusan : Teknik Informatika
 alamat : yogyakarta
 status : mahasiswa
