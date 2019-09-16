@@ -1,2 +1,3 @@
 nama : egif
 jurusan : Teknik Informatika
+alamat : yogyakarta
